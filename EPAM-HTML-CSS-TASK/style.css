@@ -15,7 +15,7 @@
 }
 
 .signbtn{
-    background: #1CE0CA;
+    background: #1c29e0;
     height: 9vh;
 }
 
@@ -35,7 +35,7 @@
 
 .sign-in-button {
     width: 100%;
-    background: #1CE0CA;
+    background: #1c29e0;
 }
 
 .btn-facebook {
@@ -59,7 +59,7 @@
 }
 
 .btn-epamlogin {
-    background: #C0E70D;
+    background: #000000;
     width: 100%;
     opacity: 0.8;
 }
